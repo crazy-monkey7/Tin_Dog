@@ -42,11 +42,13 @@ p {
   padding: 7% 15%;
 }
 
-/* navigation bar */
+/* Background Colors */
 
-.navbar {
+.colored-background {
   background-color: #ff4c68;
 }
+
+/* navigation bar */
 
 .navbar-brand {
   font-family: "Ubuntu";
@@ -72,7 +74,6 @@ p {
 /* Title Section */
 
 #title {
-  background-color: #ff4c68;
   color: #fff;
   text-align: left;
 }
@@ -111,7 +112,7 @@ p {
   padding: 5%;
 }
 
-.iconorange {
+.ignorance {
   color: #ffb709;
 }
 
@@ -122,6 +123,8 @@ p {
 .icongreen {
   color: #00e6b6;
 }
+
+/* HOVER COLORS */
 
 .icon:hover {
   color: #ff4c68;
@@ -185,10 +188,6 @@ p {
   color: white;
 }
 
-.card-header-basic {
-  background-color: #ff4c68;
-}
-
 .card-header-plus {
   background-color: #00e6b6;
 }
@@ -203,10 +202,6 @@ p {
 }
 
 /* CTA SECTION */
-
-#cta {
-  background-color: #ff4c68;
-}
 
 .cta-heading {
   color: white;
@@ -243,3 +238,5 @@ p {
     text-align: center;
   }
 }
+
+/* testing123 */
