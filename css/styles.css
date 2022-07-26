@@ -48,6 +48,10 @@ p {
   background-color: #ff4c68;
 }
 
+.white-background {
+  background-color: white;
+}
+
 /* navigation bar */
 
 .navbar-brand {
@@ -74,7 +78,7 @@ p {
 /* Title Section */
 
 #title {
-  color: #fff;
+  color: white;
   text-align: left;
 }
 
@@ -94,7 +98,6 @@ p {
 /* Features Section  */
 
 #features {
-  background-color: white;
   position: relative;
 }
 
@@ -146,7 +149,7 @@ p {
 
 #testimonials {
   background-color: #ffb709;
-  color: #fff;
+  color: white;
 }
 
 .testimonial-text {
@@ -238,3 +241,5 @@ p {
     text-align: center;
   }
 }
+
+/* the end */
